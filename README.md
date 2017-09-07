@@ -15,3 +15,7 @@
 
 ## 运行效果：
 ![image](gomagic.png)
+
+### 参考链接:
+### https://github.com/rakyll/magicmime
+### https://github.com/malice-plugins/fileinfo
