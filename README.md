@@ -19,3 +19,4 @@
 ### 参考链接:
 #### https://github.com/rakyll/magicmime
 #### https://github.com/malice-plugins/fileinfo
+#### http://ssdeep.sourceforge.net/

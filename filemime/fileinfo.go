@@ -164,7 +164,7 @@ func FileInfoScan(path string)([] byte){
 
 	fileInfo := FileInfo{
 		Magic:fi.Magic,
-		SSDeep:ParseSsdeepOutput(RunCommand(ctx, "ssdeep", path)),
+		SSDeep:ParseSsdeepOutput(RunCommand(ctx, "ssdeep","-b", path)),
 	}
 
 	fijson,_:=json.Marshal(fileInfo)
