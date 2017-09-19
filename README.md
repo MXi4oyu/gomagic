@@ -20,3 +20,4 @@
 #### https://github.com/rakyll/magicmime
 #### https://github.com/malice-plugins/fileinfo
 #### http://ssdeep.sourceforge.net/
+#### https://ssdeep-project.github.io/ssdeep/index.html
